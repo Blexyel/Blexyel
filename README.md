@@ -3,10 +3,17 @@
 - 🔭 I have no Idea what im working on right now
 
 ```java
-public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
-	if (!(sender instanceof Player)) {
+package passihd2004;
+
+import information.aboutme
+
+public class AboutMe implements AboutMe {
+
+	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
+		if (!(sender instanceof Player)) {
 		sender.sendMessage("Information about me is down there, you just have to find out where down there is :D");
-		return true;
+	return true;
+     	}
     }
 }
 ```
@@ -23,8 +30,11 @@ class ScriptKiddie:
         self.language_spoken = ["de_DE", "en_US"]
     def say_hi(self):
         print("Thanks for dropping by.")
+    def i_hate_myself(self):
+    	print("I hate myself for using Python!")
 me = ScriptKiddie()
 me.say_hi()
+me.i_hate_myself()
 ```
 
 <span>
