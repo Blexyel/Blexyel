@@ -2,6 +2,16 @@
 
 - 🔭 I have no Idea what im working on right now
 
+```java
+public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
+	if (!(sender instanceof Player)) {
+		sender.sendMessage("Information about me is down there, you just have to find out where down there is :D");
+		return true;
+    }
+}
+```
+
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
