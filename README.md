@@ -2,13 +2,6 @@
 
 - 🔭 I have no Idea what im working on right now
 
-```
-if how_to_reach_me == discord  
-  then '[HTLI] PassiHD#0001'  
-else https://discord.gg/kGQRpjf2NB  
-fi  
-```
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
