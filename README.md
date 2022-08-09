@@ -7,7 +7,7 @@ package passihd2004;
 
 import information.aboutme
 
-public class AboutMe implements AboutMe {
+public class AboutMe implements InformationDisplay {
 
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 		if (!(sender instanceof Player)) {
