@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, i am @PassiHD2004 👋
+
+- 🔭 I have no Idea what im working on right now
+
+```
+if how_to_reach_me == discord  
+  then '[HTLI] PassiHD#0001'  
+else https://discord.gg/kGQRpjf2NB  
+fi  
+```
+
+<span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PassiHD2004&cache_seconds=7270&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiHD2004&cache_seconds=7777&layout=compact&bg_color=00000000&hide_border=true&card_width=240"/>
+</span>
 
 <!--
 **PassiHD2004/PassiHD2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
