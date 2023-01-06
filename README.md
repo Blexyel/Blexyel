@@ -26,7 +26,7 @@ class ScriptKiddie:
     def __init__(self):
         self.name = "PassiHD"
         self.role = "ScriptKiddie"
-        self.contact = "[HTLI] PassiHD#0001"
+        self.contact = "[JITC] BR401#0001"
         self.language_spoken = ["de_DE", "en_US"]
     def say_hi(self):
         print("Thanks for dropping by.")
