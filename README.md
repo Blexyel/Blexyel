@@ -28,6 +28,7 @@ class ScriptKiddie:
         self.role = "ScriptKiddie"
         self.contact = "[JITC] BR401#0001"
         self.language_spoken = ["de_DE", "en_US"]
+	self.language_wip = ["nl_NL"]
     def say_hi(self):
         print("Thanks for dropping by.")
     def i_hate_myself(self):
