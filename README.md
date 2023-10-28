@@ -19,23 +19,20 @@ public class AboutMe implements InformationDisplay {
 ```
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class ScriptKiddie:
-    def __init__(self):
-        self.name = "PassiHD"
-        self.role = "ScriptKiddie"
-        self.contact = "[JITC] BR401#0001"
-        self.language_spoken = ["de_DE", "en_US"]
-	self.language_wip = ["nl_NL"]
-    def say_hi(self):
-        print("Thanks for dropping by.")
-    def i_hate_myself(self):
-    	print("I hate myself for using Python!")
-me = ScriptKiddie()
-me.say_hi()
-me.i_hate_myself()
+```rust
+//Run it
+fn main() {
+    let name = "PassiHD";
+    let role = "ScriptKiddie";
+    let langs = "de_DE, en_US";
+    let langs_wip = "nl_NL";
+    let dc_contact= "passihd";
+    
+    println!("\x1b[93mthanks for dropping by!\x1b[0m");
+    
+    println!("Name: {} \nRole: {} \nLanguages spoken: {} \nLanguage WIP: {} \nDicord: @{}", name, role, langs, langs_wip, dc_contact);
+}
+
 ```
 
 <span>
