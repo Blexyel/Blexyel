@@ -26,7 +26,7 @@ fn main() {
     let role = "ScriptKiddie";
     let langs = "de_DE, en_US";
     let langs_wip = "nl_NL";
-    let dc_contact= "passihd";
+    let dc_contact= "blexyel";
     
     println!("\x1b[93mthanks for dropping by!\x1b[0m");
     
