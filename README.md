@@ -40,6 +40,7 @@ fn main() {
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiHD2004&layout=compact&bg_color=00000000&hide_border=true&card_width=240"/>
 </span>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6QJKW9)
 <!--
 **PassiHD2004/PassiHD2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
