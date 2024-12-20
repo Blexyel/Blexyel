@@ -2,14 +2,14 @@
 
 - 🔭 I have no Idea what im working on right now
 
-```rust
+```rs
 //Run it
 fn main() {
-    let name = "PassiHD";
+    let name = "Blexyel";
     let role = "ScriptKiddie";
     let langs = "de_DE, en_US";
     let langs_wip = "nl_NL";
-    let dc_contact= "blexyel";
+    let dc_contact= "blexyel.wtf";
     
     println!("\x1b[93mthanks for dropping by!\x1b[0m");
     
