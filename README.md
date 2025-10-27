@@ -19,8 +19,8 @@ fn main() {
 ```
 
 <span>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PassiHD2004&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassiHD2004&layout=compact&bg_color=00000000&hide_border=true&card_width=240"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Blexyel&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blexyel&layout=compact&bg_color=00000000&hide_border=true&card_width=240"/>
 </span>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6QJKW9)
